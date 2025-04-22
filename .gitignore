@@ -1,0 +1,35 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+*.vscode/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database + temp files
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Publish output
+publish/
+
+# Secrets (just in case)
+.env
+secrets.json
